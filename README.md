@@ -25,3 +25,7 @@ $ tar -zxvf Hostel_Management_System.tar.gz
 $ make all
 $ ./main
 ```
+LOGIN CREDENTIALS ARE:-<br>
+USERNAME - 'username'<br>
+PASSWORD - 'password'<br>
+(BOTH ARE WITHOUT QUOTES)<br>
